@@ -104,6 +104,10 @@ body{
     
 }
 
+.logo-size{
+    width: 80px;
+}
+
 footer {
     position: fixed;
     left: 0;
@@ -132,7 +136,7 @@ footer {
         border: 3px solid lightblue;
         overflow: hidden;
     }
-    .con-foot footer{
-        text-align: center;
-    }
+.con-foot footer{
+    text-align: center;
+}
 }
